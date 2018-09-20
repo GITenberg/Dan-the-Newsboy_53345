@@ -1,0 +1,44 @@
+_repo: Dan-the-Newsboy_53345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Starr, Julian
+    - Jr., Horatio Alger
+    - Alger, Horatio
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2016-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- History -- 1865-1898 -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Fatherless families -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Newspaper vendors -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- GITenberg
+title: Dan, the Newsboy
+url: http://www.gutenberg.org/ebooks/53345
